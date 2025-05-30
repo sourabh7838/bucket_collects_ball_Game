@@ -161,7 +161,3 @@ Built with Flutter, featuring:
 - Persistent storage
 - Custom animations
 - Sound integration
-
-## License
-
-This project is open source and available under the MIT License.
